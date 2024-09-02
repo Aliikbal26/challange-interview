@@ -16,7 +16,12 @@
             padding: 0;
         }
 
+        h1 {
+            text-align: center;
+        }
+
         #data-list li {
+            text-align: center;
             padding: 5px;
             border-bottom: 1px solid #ccc;
         }
